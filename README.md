@@ -1,2 +1,2 @@
 # Tools-for-Data-Science-Project
-so i learn how to type diffrent kinds of markdowns
+i learned how to type different kinds of markdowns
